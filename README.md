@@ -2,13 +2,8 @@ Prazer! Sou Emerson Antonio da Silva.
 
 🎯 Cientista de Dados | Analista de Dados | Machine Learning Enthusiast
 
-🔎 Especializado em análise de dados, Machine Learning e Big Data.
-📊 Forte capacidade analítica e pensamento crítico.
-🎯 Foco em soluções escaláveis para problemas complexos.
-📢 Habilidade para comunicar insights de forma clara e impactante.
-📈 Sempre aprendendo novas tecnologias e metodologias de análise.
-Apaixonado por transformar dados em insights estratégicos para otimização de processos e tomada de decisão. 
-Tenho experiência prática em análise exploratória, modelagem preditiva e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Machine Learning.
+Especializado em análise de dados, Machine Learning e Big Data, com forte capacidade analítica e pensamento crítico. Focado em soluções escaláveis para problemas complexos. Através do estudo e prática desenvolvi também as capacidades e habilidades para comunicar insights de forma clara e impactante. Sempre buscando aperfeiçoar o conhecimento adquirido, bem como me dedicando a aprender novas tecnologias e metodologias de análise.
+Apaixonado por transformar dados em insights estratégicos para otimização de processos e tomada de decisão. Tenho experiência prática em análise exploratória, modelagem preditiva e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Machine Learning.
 
 
 
@@ -46,7 +41,7 @@ Visualização de Dados: Power BI, Metabase, ggplot2, Plotly
 
 
 
-📌 Te convido a conferir meus projetos destacados no meu Portfólio, todos possuem uma apresentação =>  [GitHub](https://github.com/semersonantonio/portfolio)
+Te convido a conferir meus projetos destacados no meu Portfólio, todos possuem uma apresentação =>  [GitHub](https://github.com/semersonantonio/portfolio)
 
 
 

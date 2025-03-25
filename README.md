@@ -20,7 +20,7 @@ Tenho experiência prática em análise exploratória, modelagem preditiva e vis
 
 🎓 Formação Acadêmica
 
-📊 Pós-Graduação em Data Science – Data Science Academy (2023 - 2025)
+📊 Formação Data Scientist – Data Science Academy (2023 - 2025)
 Especialização em análise de dados, Machine Learning e Big Data, com foco em: 
 Análise de dados para suporte à tomada de decisão estratégica. Processamento de grandes volumes de dados com Python e R. 
 Implementação de soluções escaláveis usando Spark. Uso de Hadoop e Spark para manipulação de grandes bases de dados. 

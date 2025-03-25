@@ -33,6 +33,7 @@ trabalhando diretamente com análise de dados e geração de insights aos projet
 
 
 🛠️ Habilidades Técnicas
+
 Linguagens: Python, R, SQL
 Bibliotecas: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Seaborn, Matplotlib, PySpark, Tidyverse
 Big Data: Hadoop, Spark
@@ -41,23 +42,25 @@ Visualização de Dados: Power BI, Metabase, ggplot2, Plotly
 
 
 📌 Projetos Destacados
-🔹 Otimização de Investimentos em Plataformas Digitais
+
+Otimização de Investimentos em Plataformas Digitais
 Objetivo: Criar um modelo de regressão para prever o retorno sobre investimentos em plataformas digitais.
 Impacto: Identificação de padrões de comportamento do usuário, otimizando estratégias de marketing.
 Tecnologias: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 Resultados: Modelo de Regressão Linear com R² de 98%, reduzindo desperdícios de investimento.
 
-🔹 Otimização de Processos Logísticos e Previsão de Atrasos
+Otimização de Processos Logísticos e Previsão de Atrasos
 Objetivo: Desenvolver um modelo preditivo para antecipar atrasos em entregas e melhorar a eficiência logística.
 Impacto: Redução de 15% nos atrasos e otimização do planejamento de entregas.
 Tecnologias: Python, Pandas, Seaborn, Matplotlib, PySpark, Machine Learning.
 Resultados: Implementação de Random Forest para previsão precisa de atrasos.
 
-🔹 Detecção de Fraudes em Transações Imobiliárias
+Detecção de Fraudes em Transações Imobiliárias
 Objetivo: Criar um sistema baseado em Machine Learning para identificar fraudes em transações imobiliárias.
 Impacto: Detecção de transações suspeitas com 92% de precisão, reduzindo prejuízos financeiros.
 Tecnologias: Python, Pandas, Scikit-learn, TensorFlow, PCA, Autoencoders, Matplotlib, Seaborn.
-🔗 Veja mais projetos no meu GitHub
+
+🔗 Veja mais projetos no meu [GitHub](https://github.com/semersonantonio/portfolio)
 
 
 🌍 Idiomas

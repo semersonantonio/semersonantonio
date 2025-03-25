@@ -11,14 +11,14 @@ Apaixonado por transformar dados em insights estratégicos para otimização de 
 Tenho experiência prática em análise exploratória, modelagem preditiva e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Machine Learning.
 
 
-.
+
 📍 Florianópolis, SC
 📧 s.emersonantonio@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/semersonantonio)
 🔗 [GitHub](https://github.com/semersonantonio)
 
 
-.
+
 🎓 Formação Acadêmica
 
 📊 Formação Data Scientist – Data Science Academy (2023 - 2025)
@@ -34,7 +34,7 @@ Aluno selecionado para Iniciação Cientifica, responsável por obter, transform
 trabalhando diretamente com análise de dados e geração de insights aos projetos.
 
 
-.
+
 🛠️ Habilidades Técnicas
 
 Linguagens: Python, R, SQL
@@ -45,7 +45,7 @@ Visualização de Dados: Power BI, Metabase, ggplot2, Plotly
 
 
 
-.
+
 📌 Te convido a conferir meus projetos destacados no meu Portfólio, todos possuem uma apresentação =>  [GitHub](https://github.com/semersonantonio/portfolio)
 
 

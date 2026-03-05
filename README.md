@@ -1,54 +1,107 @@
-Prazer! Sou Emerson Antonio da Silva.
+# 👋 Hi! I'm Emerson Antonio da Silva
 
-🎯 Cientista de Dados | Analista de Dados | Machine Learning Enthusiast
+🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**
 
-Especializado em análise de dados, Machine Learning e Big Data, com forte capacidade analítica e pensamento crítico. Focado em soluções escaláveis para problemas complexos. Através do estudo e prática desenvolvi também as capacidades e habilidades para comunicar insights de forma clara e impactante. Sempre buscando aperfeiçoar o conhecimento adquirido, bem como me dedicando a aprender novas tecnologias e metodologias de análise.
-Apaixonado por transformar dados em insights estratégicos para otimização de processos e tomada de decisão. Tenho experiência prática em análise exploratória, modelagem preditiva e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Machine Learning.
+I am a Data Science student with a strong interest in **data analysis, machine learning, and big data**, focused on transforming data into **strategic insights that support decision-making and optimize processes**.
 
+I have a strong analytical mindset and critical thinking skills and enjoy solving complex problems through data. Through academic training and hands-on projects, I have developed experience in **exploratory data analysis, predictive modeling, and data visualization**, along with the ability to **communicate insights clearly and effectively in business environments**.
 
+I am constantly improving my knowledge in **Data Science, Machine Learning, and data technologies**, always seeking to apply modern tools and methodologies to generate real impact through data.
 
-📍 Florianópolis, SC
-📧 s.emersonantonio@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/semersonantonio)
-🔗 [GitHub](https://github.com/semersonantonio)
+---
 
+# 🚀 Technologies & Tools
 
+**Languages**
+- Python
+- SQL
+- R
 
-🎓 Formação Acadêmica
+**Data Analysis**
+- Pandas
+- NumPy
+- SciPy
 
-📊 Formação Data Scientist – Data Science Academy (2023 - 2025)
-Especialização em análise de dados, Machine Learning e Big Data, com foco em: 
-Análise de dados para suporte à tomada de decisão estratégica. Processamento de grandes volumes de dados com Python e R. 
-Implementação de soluções escaláveis usando Spark. Uso de Hadoop e Spark para manipulação de grandes bases de dados. 
-Desenvolvimento de modelos preditivos aplicados a negócios. 
-Construção de dashboards interativos para comunicação de insights de forma visual e eficiente.
+**Machine Learning**
+- Scikit-learn
+- Supervised and Unsupervised Learning
 
-🏅 Ciências do Desporto – Universidade Federal de Santa Catarina (2015 - 2019)
-Participei ativamente de diversas pesquisas voltadas ao comportamento e movimento humano, com forte ênfase em bio- estatística e análise de dados. 
-Aluno selecionado para Iniciação Cientifica, responsável por obter, transformar e utilizar os dados com produção de tese, artigos e participação em livro, 
-trabalhando diretamente com análise de dados e geração de insights aos projetos.
+**Big Data**
+- Apache Spark
+- Hadoop
 
+**Data Visualization**
+- Power BI
+- Matplotlib
+- Seaborn
 
+**Tools**
+- Git
+- GitHub
+- Exploratory Data Analysis (EDA)
 
-🛠️ Habilidades Técnicas
+---
 
-Linguagens: Python, R, SQL
-Bibliotecas: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Seaborn, Matplotlib, PySpark, Tidyverse
-Big Data: Hadoop, Spark
-Machine Learning: Regressão Linear, Random Forest, XGBoost, SVM, PCA, Autoencoders
-Visualização de Dados: Power BI, Metabase, ggplot2, Plotly
+# 🎓 Education
 
+## 📊 BSc in Data Science — Universidad de La Rioja (Spain)
 
+Bachelor’s degree focused on **statistics, data analysis, machine learning, and programming applied to data science**.
 
+Key areas of study include:
 
-Te convido a conferir meus projetos destacados no meu Portfólio, todos possuem uma apresentação =>  [GitHub](https://github.com/semersonantonio/portfolio)
+- Statistical modeling and predictive analytics
+- Machine Learning applied to real-world problems
+- Data processing and large-scale data analysis
+- Programming for data science (Python and R)
+- Data visualization and communication of analytical results
+- Data structures and foundations of artificial intelligence
 
+---
 
+## 📊 Data Scientist Training — Data Science Academy (2023 – 2025)
 
-🌍 Idiomas
-🇧🇷 Português – Nativo
-🇪🇸 Espanhol – Fluente
-🇬🇧 Inglês – Intermediário (estudando)
+Professional training program focused on **Data Science, Machine Learning, and Big Data applications**.
 
+Main topics include:
 
-Se for útil de alguma forma, fique à vontade para me mandar um email ou chamar no LinkedIn! 🚀
+- Data analysis for strategic decision-making
+- Processing large datasets using Python and R
+- Development of predictive models for business applications
+- Use of Spark and Hadoop for big data processing
+- Building data pipelines and analytical workflows
+- Creating interactive dashboards and data visualizations
+
+---
+
+## 🏅 Sports Science — Federal University of Santa Catarina (2015 – 2019)
+
+Bachelor’s degree with strong involvement in **scientific research focused on human behavior and movement analysis**, with emphasis on **biostatistics and data analysis**.
+
+Key activities:
+
+- Participation in research projects involving statistical analysis and scientific data processing
+- Selected for Undergraduate Research Program (Iniciação Científica)
+- Responsible for data collection, data transformation, and analysis
+- Contribution to academic thesis, scientific articles, and book publication
+- Application of statistical methods to generate research insights
+
+---
+
+# 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇪🇸 Spanish — Fluent
+- 🇬🇧 English — Intermediate (currently improving)
+
+---
+
+# 📍 Contact
+
+📍 Madrid, Spain  
+
+📧 Email:  
+s.emersonantonio@gmail.com  
+
+🔗 LinkedIn:  
+https://linkedin.com/in/semersonantonio

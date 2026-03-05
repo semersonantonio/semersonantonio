@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Emerson Antonio da Silva
+### 👋 Hi! I'm Emerson Antonio da Silva
 
 🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**
 
@@ -10,7 +10,7 @@ I am constantly improving my knowledge in **Data Science, Machine Learning, and 
 
 ---
 
-# 🚀 Technologies & Tools
+#### 🚀 Technologies & Tools
 
 **Languages**
 - Python
@@ -42,9 +42,9 @@ I am constantly improving my knowledge in **Data Science, Machine Learning, and 
 
 ---
 
-# 🎓 Education
+### 🎓 Education
 
-## 📊 BSc in Data Science — Universidad de La Rioja (Spain)
+#### 📊 BSc in Data Science — Universidad de La Rioja (Spain)
 
 Bachelor’s degree focused on **statistics, data analysis, machine learning, and programming applied to data science**.
 
@@ -59,7 +59,7 @@ Key areas of study include:
 
 ---
 
-## 📊 Data Scientist Training — Data Science Academy (2023 – 2025)
+#### 📊 Data Scientist Training — Data Science Academy (2023 – 2025)
 
 Professional training program focused on **Data Science, Machine Learning, and Big Data applications**.
 
@@ -74,7 +74,7 @@ Main topics include:
 
 ---
 
-## 🏅 Sports Science — Federal University of Santa Catarina (2015 – 2019)
+#### 🏅 Sports Science — Federal University of Santa Catarina (2015 – 2019)
 
 Bachelor’s degree with strong involvement in **scientific research focused on human behavior and movement analysis**, with emphasis on **biostatistics and data analysis**.
 
@@ -88,7 +88,7 @@ Key activities:
 
 ---
 
-# 🌍 Languages
+### 🌍 Languages
 
 - 🇧🇷 Portuguese — Native
 - 🇪🇸 Spanish — Fluent
@@ -96,7 +96,7 @@ Key activities:
 
 ---
 
-# 📍 Contact
+### 📍 Contact
 
 📍 Madrid, Spain  
 

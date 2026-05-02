@@ -1,107 +1,100 @@
-### Hi! I'm Emerson Antonio da Silva
+<div align="center">
 
-**Data Scientist | Data Analyst | Machine Learning Enthusiast**
+# Emerson Antonio da Silva
 
-I am a Data Science student with a strong interest in **data analysis, machine learning, and big data**, focused on transforming data into **strategic insights that support decision-making and optimize processes**.
+### Junior Data Analyst | AI QA Engineer | Data Science Student
 
-I have a strong analytical mindset and critical thinking skills and enjoy solving complex problems through data. Through academic training and hands-on projects, I have developed experience in **exploratory data analysis, predictive modeling, and data visualization**, along with the ability to **communicate insights clearly and effectively in business environments**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semersonantonio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.emersonantonio@gmail.com)
+![Location](https://img.shields.io/badge/📍_Madrid,_Spain-grey?style=flat-square)
 
-I am constantly improving my knowledge in **Data Science, Machine Learning, and data technologies**, always seeking to apply modern tools and methodologies to generate real impact through data.
-
----
-
-#### Technologies & Tools
-
-**Languages**
-- Python
-- SQL
-- R
-
-**Data Analysis**
-- Pandas
-- NumPy
-- SciPy
-
-**Machine Learning**
-- Scikit-learn
-- Supervised and Unsupervised Learning
-
-**Big Data**
-- Apache Spark
-- Hadoop
-
-**Data Visualization**
-- Power BI
-- Matplotlib
-- Seaborn
-
-**Tools**
-- Git
-- GitHub
-- Exploratory Data Analysis (EDA)
+</div>
 
 ---
 
-### Education
+## 👋 About me
 
-#### BSc in Data Science — Universidad de La Rioja (Spain)
+Data Science undergraduate student at **Universidad Internacional de La Rioja (UNIR)**, currently working as an **AI QA Engineer Intern at ObviousFuture** — a company specialising in secure, private, on-premise AI systems for enterprise clients.
 
-Bachelor’s degree focused on **statistics, data analysis, machine learning, and programming applied to data science**.
+My background is in Sports Science research (UFSC, Brazil), where statistical analysis and evidence-based decision-making were central to my work. I'm transitioning that analytical rigor into Data Science and AI quality assurance.
 
-Key areas of study include:
-
-- Statistical modeling and predictive analytics
-- Machine Learning applied to real-world problems
-- Data processing and large-scale data analysis
-- Programming for data science (Python and R)
-- Data visualization and communication of analytical results
-- Data structures and foundations of artificial intelligence
+🔍 Open to **junior opportunities** in Data Analysis, Data Science, or AI/ML QA in Spain.
 
 ---
 
-#### Data Scientist Training — Data Science Academy (2023 – 2025)
+## 🛠️ Tech Stack
 
-Professional training program focused on **Data Science, Machine Learning, and Big Data applications**.
-
-Main topics include:
-
-- Data analysis for strategic decision-making
-- Processing large datasets using Python and R
-- Development of predictive models for business applications
-- Use of Spark and Hadoop for big data processing
-- Building data pipelines and analytical workflows
-- Creating interactive dashboards and data visualizations
-
----
-
-#### Sports Science — Federal University of Santa Catarina (2015 – 2019)
-
-Bachelor’s degree with strong involvement in **scientific research focused on human behavior and movement analysis**, with emphasis on **biostatistics and data analysis**.
-
-Key activities:
-
-- Participation in research projects involving statistical analysis and scientific data processing
-- Selected for Undergraduate Research Program (Iniciação Científica)
-- Responsible for data collection, data transformation, and analysis
-- Contribution to academic thesis, scientific articles, and book publication
-- Application of statistical methods to generate research insights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AI QA Testing](https://img.shields.io/badge/AI_QA_Testing-8A2BE2?style=flat-square&logo=testcafe&logoColor=white)
 
 ---
 
-### Languages
+## 💼 Experience
 
-- 🇧🇷 Portuguese — Native
-- 🇪🇸 Spanish — Fluent
-- 🇬🇧 English — Intermediate (currently improving)
+**🤖 AI QA Engineer Intern** — ObviousFuture *(Feb 2025 – Present · Remote, Spain)*
+> Testing and validating AI models for accuracy, safety, and performance in enterprise on-premise environments. Documenting edge cases, reporting issues, and collaborating with AI development teams to ensure reliable AI system deployment.
+
+**🏋️ Fitness & CrossFit Coach** — RedMob CrossFit *(2016 – 2020 · Brazil)*
+> Designed and delivered data-driven training programs; tracked athlete performance metrics; applied evidence-based methodologies to coaching decisions.
 
 ---
 
-### Contact
+## 🎓 Education
 
-📍 Madrid, Spain  
+**📘 Bachelor's in Data Science** — Universidad Internacional de La Rioja (UNIR), Spain *(2025 – Present)*
 
-📧 Email:  
-s.emersonantonio@gmail.com  
+**📗 Data Science Professional Programme** — Data Science Academy *(2023 – 2025)*
 
-🔗 LinkedIn:  
-https://linkedin.com/in/semersonantonio
+**📙 Bachelor's in Physical Education (Sports Science)** — UFSC, Brazil *(2016 – 2020)*
+
+---
+
+## 🚀 Featured Projects
+
+> *Projects being uploaded — check back soon!*
+
+| Project | Description | Tech |
+|---|---|---|
+| 📝 **NLP Analysis: Amazon vs Google Reviews** | Text mining & NLP analysis of employee reviews. N-gram analysis, word association, sentiment patterns. | R, tm, ggplot2, wordcloud |
+| 🏥 **Liver Disease Prediction** | Predictive modeling on clinical variables with class imbalance handling. Multiple classification models evaluated. | Python, Scikit-learn, Pandas |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=semersonantonio&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semersonantonio&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+🇧🇷 Portuguese — Native &nbsp;|&nbsp; 🇪🇸 Spanish — B1 &nbsp;|&nbsp; 🇬🇧 English — Currently learning
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semersonantonio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.emersonantonio@gmail.com)
+
+---
+
+<div align="center">
+  <i>Open to junior opportunities in Data Analysis, Data Science, or AI/ML QA in Spain.</i>
+</div>

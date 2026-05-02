@@ -67,8 +67,6 @@ All projects are organised in the **[Portfolio repository](https://github.com/se
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🐾 **[Mexikans — Demand Forecasting](https://github.com/semersonantonio/Portfolio/tree/main/ES_MexikansVeterinaryNetwork)** | Operational demand forecasting for a veterinary clinic network. EDA, feature engineering and predictive modelling. | Python, Pandas, Scikit-learn | ✅ Complete |
-| 📝 **NLP: Amazon vs Google Reviews** | Text mining & sentiment analysis of employee reviews. N-gram analysis and word association. | R, tm, ggplot2 | 🔜 Coming soon |
-| 🏥 **Liver Disease Prediction** | Classification models for liver disease detection with class imbalance handling. | Python, Scikit-learn | 🔜 Coming soon |
 
 ---
 

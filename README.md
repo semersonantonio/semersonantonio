@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semersonantonio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.emersonantonio@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Madrid,_Spain-grey?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=semersonantonio&color=blue&style=flat-square)
 
 </div>
 
@@ -67,18 +68,6 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 |---|---|---|
 | 📝 **NLP Analysis: Amazon vs Google Reviews** | Text mining & NLP analysis of employee reviews. N-gram analysis, word association, sentiment patterns. | R, tm, ggplot2, wordcloud |
 | 🏥 **Liver Disease Prediction** | Predictive modeling on clinical variables with class imbalance handling. Multiple classification models evaluated. | Python, Scikit-learn, Pandas |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=semersonantonio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semersonantonio&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ---
 

@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semersonantonio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.emersonantonio@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Madrid,_Spain-grey?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=semersonantonio&color=blue&style=flat-square)
 
 </div>
 

@@ -41,7 +41,7 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 
 ## 💼 Experience
 
-**🤖 AI QA Engineer Intern** — ObviousFuture *(Feb 2025 – Present · Remote, Spain)*
+**🤖 AI QA Engineer Intern** — ObviousFuture *(Feb 2026 – Present · Remote, Spain)*
 > Testing and validating AI models for accuracy, safety, and performance in enterprise on-premise environments. Documenting edge cases, reporting issues, and collaborating with AI development teams to ensure reliable AI system deployment.
 
 **🏋️ Fitness & CrossFit Coach** — *(2016 – 2025 · Brazil)*

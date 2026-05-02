@@ -60,14 +60,15 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio
 
-> *Projects being uploaded — check back soon!*
+All projects are organised in the **[Portfolio repository](https://github.com/semersonantonio/Portfolio)**.
 
-| Project | Description | Tech |
-|---|---|---|
-| 📝 **NLP Analysis: Amazon vs Google Reviews** | Text mining & NLP analysis of employee reviews. N-gram analysis, word association, sentiment patterns. | R, tm, ggplot2, wordcloud |
-| 🏥 **Liver Disease Prediction** | Predictive modeling on clinical variables with class imbalance handling. Multiple classification models evaluated. | Python, Scikit-learn, Pandas |
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🐾 **[Mexikans — Demand Forecasting](https://github.com/semersonantonio/Portfolio/tree/main/ES_MexikansVeterinaryNetwork)** | Operational demand forecasting for a veterinary clinic network. EDA, feature engineering and predictive modelling. | Python, Pandas, Scikit-learn | ✅ Complete |
+| 📝 **NLP: Amazon vs Google Reviews** | Text mining & sentiment analysis of employee reviews. N-gram analysis and word association. | R, tm, ggplot2 | 🔜 Coming soon |
+| 🏥 **Liver Disease Prediction** | Classification models for liver disease detection with class imbalance handling. | Python, Scikit-learn | 🔜 Coming soon |
 
 ---
 

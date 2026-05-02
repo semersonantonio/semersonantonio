@@ -74,9 +74,9 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 
 <div align="center">
 
-![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=semersonantonio&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=semersonantonio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semersonantonio&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semersonantonio&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 

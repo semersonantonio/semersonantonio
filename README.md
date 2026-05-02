@@ -44,7 +44,7 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 **🤖 AI QA Engineer Intern** — ObviousFuture *(Feb 2025 – Present · Remote, Spain)*
 > Testing and validating AI models for accuracy, safety, and performance in enterprise on-premise environments. Documenting edge cases, reporting issues, and collaborating with AI development teams to ensure reliable AI system deployment.
 
-**🏋️ Fitness & CrossFit Coach** — RedMob CrossFit *(2016 – 2020 · Brazil)*
+**🏋️ Fitness & CrossFit Coach** — *(2016 – 2025 · Brazil)*
 > Designed and delivered data-driven training programs; tracked athlete performance metrics; applied evidence-based methodologies to coaching decisions.
 
 ---
@@ -53,9 +53,9 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 
 **📘 Bachelor's in Data Science** — Universidad Internacional de La Rioja (UNIR), Spain *(2025 – Present)*
 
-**📗 Data Science Professional Programme** — Data Science Academy *(2023 – 2025)*
+**📗 Data Science Professional Programme** — Data Science Academy *(2023.2 – 2025.1)*
 
-**📙 Bachelor's in Physical Education (Sports Science)** — UFSC, Brazil *(2016 – 2020)*
+**📙 Bachelor's in Physical Education (Sports Science)** — UFSC, Brazil *(2015.2 – 2020.1)*
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Junior Data Analyst | AI QA Engineer | Data Science Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semersonantonio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emersonantoniods)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.emersonantonio@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Madrid,_Spain-grey?style=flat-square)
 
@@ -41,7 +41,7 @@ My background is in Sports Science research (UFSC, Brazil), where statistical an
 
 ## 💼 Experience
 
-**🤖 AI QA Engineer Intern** — ObviousFuture *(Feb 2026 – Present · Remote, Spain)*
+**🤖 AI QA Engineer Intern** — ObviousFuture *(April 2026 – Present · Remote, Spain)*
 > Testing and validating AI models for accuracy, safety, and performance in enterprise on-premise environments. Documenting edge cases, reporting issues, and collaborating with AI development teams to ensure reliable AI system deployment.
 
 **🏋️ Fitness & CrossFit Coach** — *(2016 – 2025 · Brazil)*
